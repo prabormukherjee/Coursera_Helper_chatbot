@@ -1,2 +1,5 @@
 # Coursera_Helper_chatbot
-A chatbot to help coursera student with their difficulty.
+
+This chatbot is made for ccoursera student to handle their questions. It can suggest you some course based on your demand, general quary as your account setup, course fee, specializations, exception handling and many more.
+<br>
+Here I used assistant, text to speech, speech to text, discovery API provider. In the notebook file, what is provided in the repo, please update the details of your api provider (e.g api key, url, user id and all) as per the instruction I provided for you. Then copy the json file and import in your skills section. It will automatically add the necessary dialogs, intents for you. Finally unzip the 2 zip file. It consists of the reply we want to provide to the terget. One zip will take care of course recommendation, another one is for help articles. Remember I did this for basic purpose. So I only added a few course as it is not so possible to add manually all the courses. Currently coursera has a lot of course out there. As a result of this you will get 'not understand', 'tell again' kind of reply for course recommendation on which course I have not added the data aleady. You can add some more and test their performence from try out pannel.
